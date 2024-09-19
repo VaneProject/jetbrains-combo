@@ -23,6 +23,7 @@ dependencies {
 
         instrumentationTools()
 
+        plugin("org.vane.hub:1.0.0")
 //        localPlugin(project(":VaneHub"))
     }
 }

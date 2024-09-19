@@ -1,13 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Copyright 2024 Project Vane and contributors. Use of this source code is governed by the Vane 2.0 license. -->
-<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M32.0845 7.94025V4H24.0203V7.9896H16.029V4H7.91553V7.94025H4V36H16.0044V32.0045C16.0058 30.9457 16.4274 29.9308 17.1766 29.1826C17.9258 28.4345 18.9412 28.0143 20 28.0143C21.0588 28.0143 22.0743 28.4345 22.8234 29.1826C23.5726 29.9308 23.9942 30.9457 23.9956 32.0045V36H36V7.94025H32.0845Z"
-          fill="url(#paint0_linear)"/>
-    <defs>
-        <linearGradient id="paint0_linear" x1="2.94192" y1="4.89955" x2="37.7772" y2="39.7345"
-                        gradientUnits="userSpaceOnUse">
-            <stop offset="0.15937" stop-color="#3BEA62"/>
-            <stop offset="0.5404" stop-color="#3C99CC"/>
-            <stop offset="0.93739" stop-color="#6B57FF"/>
-        </linearGradient>
-    </defs>
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:svg="http://www.w3.org/2000/svg">
+  <path d="M 32.0845,7.94025 V 4 H 24.0203 V 7.9896 H 16.029 V 4 H 7.91553 V 7.94025 H 4 V 36 h 12.0044 v -3.9955 c 0.0014,-1.0588 0.423,-2.0737 1.1722,-2.8219 0.7492,-0.7481 1.7646,-1.1683 2.8234,-1.1683 1.0588,0 2.0743,0.4202 2.8234,1.1683 0.7492,0.7482 1.1708,1.7631 1.1722,2.8219 V 36 H 36 V 7.94025 Z"
+        fill="url(#paint0_linear)" style="display:none" />
+  <defs>
+    <linearGradient id="linearGradient">
+      <stop style="stop-color:#a50900;stop-opacity:1;" offset="0" />
+      <stop style="stop-color:#a50900;stop-opacity:0;" offset="1" />
+    </linearGradient>
+    <linearGradient x1="2.94192" y1="4.89955" x2="37.7772" y2="39.7345" gradientUnits="userSpaceOnUse">
+      <stop offset="0.15937" stop-color="#3BEA62"/>
+      <stop offset="0.5404" stop-color="#3C99CC"/>
+      <stop offset="0.93739" stop-color="#6B57FF"/>
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient"
+       id="radialGradient10752"
+       cx="20.115744"
+       cy="19.492691"
+       fx="20.115744"
+       fy="19.492691"
+       r="19.999999"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.39163401,0.92568033,-0.92096372,0.38964834,30.189796,-6.7233524)" />
+    <radialGradient
+       xlink:href="#linearGradient"
+       id="radialGradient10752-7"
+       cx="20.115744"
+       cy="19.492691"
+       fx="20.115744"
+       fy="19.492691"
+       r="19.999998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.17376869,0.41072596,-0.4086332,0.17288764,35.006374,18.716956)" />
+  </defs>
+  <circle
+     style="fill:url(#radialGradient10752);fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+     cx="19.999998" cy="19.999998" r="19.999998" />
+  <circle
+     style="fill:url(#radialGradient10752-7);fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+     cx="30.485144" cy="30.574152" r="8.8740339" />
 </svg>
