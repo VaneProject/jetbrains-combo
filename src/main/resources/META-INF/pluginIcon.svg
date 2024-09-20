@@ -1,46 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Copyright 2024 Project Vane and contributors. Use of this source code is governed by the Vane 2.0 license. -->
-<svg width="40" height="40" viewBox="0 0 40 40" fill="none"
-     xmlns:xlink="http://www.w3.org/1999/xlink"
-     xmlns="http://www.w3.org/2000/svg"
-     xmlns:svg="http://www.w3.org/2000/svg">
-  <path d="M 32.0845,7.94025 V 4 H 24.0203 V 7.9896 H 16.029 V 4 H 7.91553 V 7.94025 H 4 V 36 h 12.0044 v -3.9955 c 0.0014,-1.0588 0.423,-2.0737 1.1722,-2.8219 0.7492,-0.7481 1.7646,-1.1683 2.8234,-1.1683 1.0588,0 2.0743,0.4202 2.8234,1.1683 0.7492,0.7482 1.1708,1.7631 1.1722,2.8219 V 36 H 36 V 7.94025 Z"
-        fill="url(#paint0_linear)" style="display:none" />
-  <defs>
-    <linearGradient id="linearGradient">
-      <stop style="stop-color:#a50900;stop-opacity:1;" offset="0" />
-      <stop style="stop-color:#a50900;stop-opacity:0;" offset="1" />
-    </linearGradient>
-    <linearGradient x1="2.94192" y1="4.89955" x2="37.7772" y2="39.7345" gradientUnits="userSpaceOnUse">
-      <stop offset="0.15937" stop-color="#3BEA62"/>
-      <stop offset="0.5404" stop-color="#3C99CC"/>
-      <stop offset="0.93739" stop-color="#6B57FF"/>
-    </linearGradient>
-    <radialGradient
-       xlink:href="#linearGradient"
-       id="radialGradient10752"
-       cx="20.115744"
-       cy="19.492691"
-       fx="20.115744"
-       fy="19.492691"
-       r="19.999999"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.39163401,0.92568033,-0.92096372,0.38964834,30.189796,-6.7233524)" />
-    <radialGradient
-       xlink:href="#linearGradient"
-       id="radialGradient10752-7"
-       cx="20.115744"
-       cy="19.492691"
-       fx="20.115744"
-       fy="19.492691"
-       r="19.999998"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.17376869,0.41072596,-0.4086332,0.17288764,35.006374,18.716956)" />
-  </defs>
-  <circle
-     style="fill:url(#radialGradient10752);fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-     cx="19.999998" cy="19.999998" r="19.999998" />
-  <circle
-     style="fill:url(#radialGradient10752-7);fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-     cx="30.485144" cy="30.574152" r="8.8740339" />
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path style="fill:#ff0000;stroke:#ffffff;stroke-width:0.756514;stroke-linecap:butt;stroke-miterlimit:5;stroke-dasharray:none"
+        d="m 16.701526,10.181506 6.345978,-7.5211591 -2.350362,10.3415941 9.166411,-4.935761 -4.230651,8.69634 7.286123,3.290508 -9.40145,0.470072 4.113136,6.698532 -6.816051,-2.702916 -2.467879,7.99123 L 15.643863,25.341342 9.4154031,31.687319 12.588392,23.343534 4.2446061,23.578571 10.23803,20.053028 2.2467984,14.529676 11.883283,15.234784 11.765765,3.3654555 Z"/>
+  <path style="fill:#ff0000;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-miterlimit:5;stroke-dasharray:none"
+        d="m 23.016332,20.836755 2.092394,-5.318167 1.830845,7.236195 5.841266,-4.620703 -3.138591,7.497745 8.108026,0.261549 -5.928449,2.441126 4.359154,2.702676 -6.713097,0.959013 0.174366,5.579717 -4.446337,-5.754083 -0.784648,6.451548 -3.661689,-6.887463 -5.754083,0.959014 5.143801,-4.707887 -5.143801,-6.189998 6.887463,1.13338 -0.959014,-4.795069 z"/>
 </svg>

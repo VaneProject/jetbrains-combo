@@ -14,9 +14,9 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-        Combo Plugin
-        Team Vane Project
-        homepage : https://github.com/vaneproject
+        <p><b>Combo</b></p>
+        <a href="https://github.com/vaneproject">Project Vane</a></br>
+        This is a plugin that outputs the number of consecutive inputs.
     ]]></description>
 
     <!-- Product and plugin compatibility requirements.
@@ -38,4 +38,10 @@
                 bundle="messages.combo" key="setting.combo.title"
                 provider="org.vane.combo.setting.ComboConfigurableProvider"/>
     </extensions>
+
+    <change-notes><![CDATA[
+        1.0.0 (2024-09-20) <br/>
+        ++++++++++++++++++ <br/>
+        - Create Combo Plugin <br/>
+    ]]></change-notes>
 </idea-plugin>
