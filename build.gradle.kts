@@ -31,7 +31,7 @@ dependencies {
 intellijPlatform {
     pluginConfiguration {
         group = "org.vane"
-        version = "1.0.0"
+        setVersion("1.0.0")
 
         ideaVersion {
             sinceBuild = "232"
